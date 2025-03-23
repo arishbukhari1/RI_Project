@@ -1,4 +1,4 @@
-# RI
+# RI Predictive Model
 # Methodology 
 
 To predict immunization coverage and identify gaps in the African region, the following steps will be taken: 
